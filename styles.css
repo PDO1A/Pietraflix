@@ -1,0 +1,13 @@
+body {
+    color:white;
+    background:lightpink;
+    margin: 10px;
+}
+
+header{
+    border-bottom:solid 2px rgb(232, 0, 101);
+    padding: 20px;
+    font-size: 26px;
+    color: rgb(232, 0, 101);
+}
+
